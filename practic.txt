@@ -1,3 +1,6 @@
 4otkiy commit
 commit1
 feature commit
+commit rebase 1
+commit rebase 2
+commit rebase 3
